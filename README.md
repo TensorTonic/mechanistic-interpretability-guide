@@ -131,6 +131,8 @@ Interpretability results are easy to over-read because they often come as pictur
 
 Once these methods feel familiar, the next step is to apply them to a real model. The [Sparse Autoencoder Feature Lab](https://www.tensortonic.com/projects/sparse-autoencoder-feature-lab) has you train a sparse autoencoder on a model's activations and test whether the model relies on a feature, and the [Language Modeling from Scratch](https://www.tensortonic.com/study-plans/language-modeling-from-scratch) study plan builds the transformer pieces you will spend your time taking apart.
 
+If you want to do this work as a job, the [Research Engineer Interview Preparation](https://www.tensortonic.com/guides/research-engineer-interview-preparation) guide explains how to prepare for research engineer interviews.
+
 ## License
 
 MIT
